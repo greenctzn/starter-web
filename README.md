@@ -8,4 +8,8 @@
 
 ## How to Contribute
 
+Following these instructions to contribute
+
 ## Deployment
+ 
+Please perform these steps to deploy
